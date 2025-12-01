@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @shahalmas
 - 👀 I’m interested in providing security to all network channels
 - 🌱 I’m currently learning Cybersecurity
+- Frontend developer (Html,Css,Javascript,ReactJs)
+- Python,C++,Java
 - 💞️ I’m looking to collaborate on different platforms 
 - 📫 How to reach me shahalmas044@gmail.com
 - 😄 Pronouns: ...
